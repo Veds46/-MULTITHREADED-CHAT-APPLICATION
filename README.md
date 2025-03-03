@@ -18,3 +18,4 @@ The final deliverable for this task will be a fully functional chat application 
 
 #OUTPUT#:
 
+![Image](https://github.com/user-attachments/assets/d7d9011d-778b-4aff-8a50-f68e078b7978)
